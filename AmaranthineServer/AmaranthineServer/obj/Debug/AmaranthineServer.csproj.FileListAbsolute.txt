@@ -1,0 +1,15 @@
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\bin\Debug\AmaranthineServer.exe.config
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\bin\Debug\AmaranthineServer.exe
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\bin\Debug\AmaranthineServer.pdb
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.csprojResolveAssemblyReference.cache
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.frm_Main.resources
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.frm_Settings.resources
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.Properties.Resources.resources
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.UserCtrl_SettingsEntry.resources
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.csproj.GenerateResource.Cache
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.exe
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.pdb
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.ClientView.resources
+C:\Users\debdipto\documents\visual studio 2015\Projects\AmaranthineServer\AmaranthineServer\obj\Debug\AmaranthineServer.About.resources
